@@ -15,7 +15,6 @@ html, body {
   margin: auto;
 }
 
-
 /*---------- HEADER ----------*/
 
 header {
@@ -23,7 +22,6 @@ header {
   width: 100%;
   background: #ffccf2;
 }
-
 
 /*---------- CONTENT AREA ----------*/
 
@@ -74,6 +72,10 @@ footer {
     background-color: #00b3b3;
   }
 
+  .col-3 {
+    width: 50%;
+  }
+
   footer {
     background-color: #cceeff;
   }
@@ -97,6 +99,10 @@ footer {
 
   #column-3 {
     background-color: #00b3b3;
+  }
+
+  .col-3 {
+    width: 33.3%;
   }
 
   footer {
